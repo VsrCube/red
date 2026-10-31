@@ -1,0 +1,9 @@
+{
+  "frontend": "react",
+  "backend": "hono",
+  "folderName": "red",
+  "generationMode": "dynamic",
+  "createdAt": "2026-10-31T06:20:16.319Z",
+  "rapidfireVersion": "0.1.38",
+  "isFullstack": true
+}
